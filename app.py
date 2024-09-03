@@ -1,8 +1,8 @@
 import streamlit as st
-import cv2
 import numpy as np
 import tensorflow as tf
 from mtcnn import MTCNN
+import cv2
 import tempfile
 
 # Constants
