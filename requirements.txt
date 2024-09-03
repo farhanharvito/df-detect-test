@@ -4,4 +4,3 @@ opencv-python
 numpy
 tensorflow
 mtcnn
-opencv-contrib-python
